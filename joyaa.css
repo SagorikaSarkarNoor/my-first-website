@@ -1,0 +1,12 @@
+.rose{
+background-color: tomato;
+font-style: italic;
+
+align-items: center;
+padding: 60px;
+width: 250x !important;
+border: 28px rgb(36, 15, 1);
+border-radius: 15px;
+border-top: 10px solid rgb(45, 11, 4);
+border-left: 10px solid rgb(54, 12, 4)
+}
